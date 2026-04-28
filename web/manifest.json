@@ -1,6 +1,6 @@
 {
-  "name": "量子VPN",
-  "short_name": "量子VPN",
+  "name": "量子",
+  "short_name": "量子",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
